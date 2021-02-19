@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lugares</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Lugares</string>
+    <string name="nav_header_subtitle">La app para guardar sitios</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuración</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">About</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="Llocs">Mis Lugares</string>
+    <string name="About">Sobre mi</string>
+    <string name="nomAlumne">Arthur</string>
+    <string name="PlaceName">Nombre</string>
+    <string name="PlaceDesc">Descripción</string>
+    <string name="PlaceTel">Telefono</string>
+    <string name="PlaceWeb">website</string>
+    <string name="savePlace">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="RemovePlace">Quitar lugar</string>
+    <string name="RemovePlaceQuestion">Quieres quitarlo</string>
+    <string name="MaintaindedBy" translatable="false">"Artur Badenes Puig"</string>
+    <string name="aboutVersion" translatable="false">"2.0"</string>
+    <string name="BtOpenMaps">"Maps"</string>
+</resources>

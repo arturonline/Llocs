@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="guideline7" type="id" />
+    <item name="guideline8" type="id" />
+    <item name="guideline" type="id" />
+    <item name="guideline2" type="id" />
+    <item name="guideline3" type="id" />
+    <item name="guideline6" type="id" />
+    <item name="guideline5" type="id" />
+    <item name="guideline4" type="id" />
+    <item name="aboutImg" type="id" />
+    <item name="aboutTextView" type="id" />
+    <item name="aboutMaintainer" type="id" />
+    <item name="nomAlumne" type="id" />
+    <item name="aboutVersionText" type="id" />
+    <item name="aboutVersion" type="id" />
+</resources>

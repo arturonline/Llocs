@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Llocs</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Llocs</string>
+    <string name="nav_header_subtitle">La app per guardar llocs</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">configuracio</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="Llocs">Els meus Llocs</string>
+    <string name="About">Sobre mi</string>
+    <string name="nomAlumne">Artur</string>
+    <string name="PlaceName">Nom</string>
+    <string name="PlaceDesc">Descripció</string>
+    <string name="PlaceTel">Telefon</string>
+    <string name="PlaceWeb">website</string>
+    <string name="savePlace">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="RemovePlace">Llevar lloc</string>
+    <string name="RemovePlaceQuestion">Vols llevar el lloc</string>
+    <string name="BtOpenMaps">Mapes</string>
+</resources>
